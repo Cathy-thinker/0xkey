@@ -8,7 +8,7 @@ export default function Insights() {
   const properties = [
     {
       id: 1,
-      image: '/aman-room.jpg',
+      image: 'https://images.unsplash.com/photo-1618221118493-9cfa1a1c00da?q=80&w=1000&auto=format&fit=crop',
       name: 'Aman New York Residences',
       city: 'New York, USA',
       yield: '6.5%',
@@ -17,7 +17,7 @@ export default function Insights() {
     },
     {
       id: 2,
-      image: '/four-seasons.jpg',
+      image: 'https://images.unsplash.com/photo-1499793983690-e29da59ef1c2?q=80&w=1000&auto=format&fit=crop',
       name: 'Four Seasons Resort Maldives',
       city: 'Baa Atoll, Maldives',
       yield: '8.2%',

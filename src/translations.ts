@@ -54,7 +54,7 @@ export const translations = {
         requirement: 'Note: Both token and NFT holdings must be maintained for at least one year.',
       },
       yield: {
-        title: 'Yield-to-Consumption Incentive',
+        title: 'Voucher Conversion Right',
         desc: 'Monthly dividend settlement. Choose to keep dividends or exchange for hotel vouchers at a 1:1.2 premium ratio without fiat withdrawal.',
       },
       governance: {
